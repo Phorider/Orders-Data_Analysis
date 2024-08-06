@@ -1,4 +1,4 @@
-# Orders Analysis with Python and MySQL
+#Orders Analysis with Python and MySQL
 This project involves extracting, cleaning, transforming, and analyzing a retail orders dataset using Python and MySQL. The goal is to generate valuable insights into sales performance, product profitability, and growth trends.
 
 Project Overview
@@ -57,4 +57,6 @@ Highest Profit Growth by Sub-Category (2023 vs. 2022):
 
 Identify the sub-category with the highest profit growth in 2023 compared to 2022.
 Conclusion
-This project demonstrates the end-to-end process of data extraction, transformation, and analysis using Python and MySQL. The insights generated from the SQL queries can help businesses make informed decisions and identify key areas for growth.
+This project demonstrates the end-to-end process of data extraction, transformation, and analysis using Python and MySQL. The insights generated from the SQL queries can help businesses make informed decisions and identify key areas for growth. 
+
+
